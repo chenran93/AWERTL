@@ -8,7 +8,7 @@
 #import "TTTAttributedLabel+LocalizationsPlus.h"
 #import <objc/runtime.h>
 #import "AWERTLManager.h"
-#import "RSSwizzle.h"
+@import RSSwizzle;
 
 @implementation AWERTLTTTAttributedLabel
 

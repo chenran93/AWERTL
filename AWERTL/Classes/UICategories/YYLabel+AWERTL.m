@@ -9,7 +9,7 @@
 #import "AWERTLDefinitions.h"
 #import "AWERTLManager.h"
 #import "NSObject+AWERTLReloadBlock.h"
-#import "RSSwizzle.h"
+@import RSSwizzle;
 
 @implementation AWERTLYYTextAdaption
 
